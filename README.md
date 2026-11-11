@@ -32,5 +32,5 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/BootFlasher.git
+git clone https://github.com/samuuul12/BootFlasher.git
 cd BootFlasher
